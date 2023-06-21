@@ -28,13 +28,9 @@ git clone https://github.com/your-username/todo-list-web-app.git
 
 3. Double-click the `index.html` file to open the app in your web browser.
 
-## License
-
-This project is licensed under the Mozilla Public License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## Versi Bahasa Indonesia
 
 # Aplikasi Web To-Do List
 
