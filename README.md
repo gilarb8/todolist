@@ -30,7 +30,7 @@ git clone https://github.com/your-username/todo-list-web-app.git
 
 ## License
 
-Proyek ini dilisensikan di bawah Mozilla Public License 2.0 - lihat berkas [LICENSE](LICENSE) untuk detailnya.
+This project is licensed under the Mozilla Public License 2.0 - see file [LICENSE](LICENSE) for details.
 
 ---
 
