@@ -28,44 +28,10 @@ git clone https://github.com/your-username/todo-list-web-app.git
 
 3. Double-click the `index.html` file to open the app in your web browser.
 
-
----
-
-
-# Aplikasi Web To-Do List
-
-Ini adalah aplikasi web To-Do List sederhana dan interaktif yang dibangun menggunakan vanilla JavaScript. Aplikasi ini memungkinkan pengguna untuk menambahkan dan menghapus item dalam daftar tugas mereka. Aplikasi ini memiliki antarmuka yang bersih dan mudah digunakan, dan dapat diakses baik pada perangkat desktop maupun mobile.
-
-## Fitur
-
-- Menambahkan tugas baru ke dalam daftar tugas.
-- Menghapus tugas dari daftar tugas.
-- Desain responsif untuk perangkat desktop dan mobile.
-
-## Memulai
-
-Langkah-langkah berikut akan membantu Anda mengatur proyek ini di komputer lokal Anda.
-
-### Prasyarat
-
-Untuk menjalankan aplikasi web ini, Anda memerlukan web browser yang terinstal di komputer Anda.
-
-### Instalasi
-
-1. Klon repositori ini:
-
-```
-git clone https://github.com/your-username/todo-list-web-app.git
-```
-
-2. Buka folder proyek.
-
-3. Klik dua kali file `index.html` untuk membuka aplikasi di web browser Anda.
-
-## Lisensi
+## License
 
 Proyek ini dilisensikan di bawah Mozilla Public License 2.0 - lihat berkas [LICENSE](LICENSE) untuk detailnya.
 
 ---
 
-Silakan sesuaikan README.md di atas dengan informasi yang relevan dengan proyek Anda. Pastikan untuk memasukkan tangkapan layar (screenshot) dari aplikasi Anda dan mengganti "your-username" pada URL clone dengan nama pengguna GitHub Anda.
+Please adapt the README.md above with information relevant to your project. Make sure to include a screenshot of your application and replace "your-username" in the clone URL with your GitHub username.
