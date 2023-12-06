@@ -21,7 +21,7 @@ To run this web app, you need a web browser installed on your computer.
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/todo-list-web-app.git
+git clone https://github.com/gilarc/todolist.git
 ```
 
 2. Open the project folder.
@@ -31,7 +31,3 @@ git clone https://github.com/your-username/todo-list-web-app.git
 ## License
 
 This project is licensed under the Mozilla Public License 2.0 - see file [LICENSE](LICENSE) for details.
-
----
-
-Please adapt the README.md above with information relevant to your project. Make sure to include a screenshot of your application and replace "your-username" in the clone URL with your GitHub username.
